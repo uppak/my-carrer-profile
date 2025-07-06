@@ -1,0 +1,23 @@
+.footer {
+  background-color: #40597a;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-size: 14px;
+}
+
+.footer a {
+  color: #93c5fd;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+.footer-left, .footer-center, .footer-right {
+  
+}

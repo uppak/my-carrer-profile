@@ -14,7 +14,7 @@ const ProfileTable = () => {
         </tr>
         <tr>
           <th>Education</th>
-          <td>Bachelors of Technology in Computer Science</td>
+          <td>Bachelors of Technology in Computer Sciencen</td>
         </tr>
         <tr>
           <th>Email</th>

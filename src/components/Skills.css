@@ -1,0 +1,37 @@
+.skills-table-container {
+  margin-top: 40px;
+}
+
+.skills-table-container h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #1f2937;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 8px;
+}
+
+.skills-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.skills-table th,
+.skills-table td {
+  text-align: left;
+  padding: 12px 16px;
+  border-bottom: 1px solid #e5e7eb;
+  border-left: 1px solid #e5e7eb;
+  
+}
+
+.skills-table th {
+  background-color: rgb(210 224 236);
+  color: #111827;
+  font-weight: 600;
+}
+
+.skills-table tr:hover {
+  background-color: #f9fafb;
+}

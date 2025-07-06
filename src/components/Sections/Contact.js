@@ -1,5 +1,3 @@
-import profileImg from '../../assets/profile.jpg';
-
 const Contact = () => {
   return (
     <div className="contact">

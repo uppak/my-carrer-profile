@@ -1,6 +1,3 @@
-import React from 'react';
-import profileImg from '../../assets/profile.jpg';
-
 const Aboutme = () => {
   return (
     <div className="aboutme">
