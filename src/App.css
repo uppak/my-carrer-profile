@@ -1,0 +1,97 @@
+.container {
+  font-family: 'Segoe UI', sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 30px;
+  color: #333;
+  background-color: beige;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.profile-photo {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #0077b6;
+  margin-bottom: 10px;
+}
+
+.profile-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 40px;
+}
+
+.profile-table th,
+.profile-table td {
+  text-align: left;
+  padding: 12px 16px;
+  border-bottom: 1px solid #ddd;
+}
+
+.profile-table th {
+  width: 30%;
+  background-color:beige;
+  color: #222;
+}
+
+.project-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 40px;
+}
+
+.project-table th,
+.project-table td {
+  text-align: left;
+  padding: 12px 16px;
+  border-bottom: 1px solid #ddd;
+}
+
+.project-table th {
+  width: 30%;
+  background-color: beige;
+  color: #222;
+}
+
+.certifications h2 {
+  margin-bottom: 20px;
+}
+
+.cert-images {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.cert-images img {
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.body {
+  margin:0;
+  font-family:'Segoe UI', sans-serif;
+  background-color: #f4f6f8;
+}
+
+.app-layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  padding: 40px;
+  overflow-y: auto;
+}
+
+.main-content section {
+  margin-bottom: 60px;
+}
